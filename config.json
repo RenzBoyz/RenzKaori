@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["6281393526422@s.whatsapp.net"],
+  "ownerName": ["Renz"],
+  "Instagram": "-",
+  "botName": "RenzBot",
+  "sessionName": "session",
+  "pathimg": "./media/chris2.jpg",
+  "gamewaktu": 90,
+  "limitCount": 40,
+  "gcount": {
+	"prem": 9999,
+	"user": 30
+  }
+}
